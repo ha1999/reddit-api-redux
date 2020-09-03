@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/reddit-api-redux/static/css/main.5f361e03.chunk.css",
+    "main.js": "/reddit-api-redux/static/js/main.23629b35.chunk.js",
+    "main.js.map": "/reddit-api-redux/static/js/main.23629b35.chunk.js.map",
+    "runtime-main.js": "/reddit-api-redux/static/js/runtime-main.f9e1fae8.js",
+    "runtime-main.js.map": "/reddit-api-redux/static/js/runtime-main.f9e1fae8.js.map",
+    "static/js/2.763b34e5.chunk.js": "/reddit-api-redux/static/js/2.763b34e5.chunk.js",
+    "static/js/2.763b34e5.chunk.js.map": "/reddit-api-redux/static/js/2.763b34e5.chunk.js.map",
+    "index.html": "/reddit-api-redux/index.html",
+    "precache-manifest.acee3c75dd0262196089241616c09688.js": "/reddit-api-redux/precache-manifest.acee3c75dd0262196089241616c09688.js",
+    "service-worker.js": "/reddit-api-redux/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/reddit-api-redux/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.763b34e5.chunk.js.LICENSE.txt": "/reddit-api-redux/static/js/2.763b34e5.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/reddit-api-redux/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f9e1fae8.js",
+    "static/js/2.763b34e5.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.23629b35.chunk.js"
+  ]
+}
